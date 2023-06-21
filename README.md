@@ -8,7 +8,7 @@
  3. VsCode
  4. GitHub
 
-![Logo do IFPR](https://github.com/prof-fernando-alves/Cafeteria GRECHUSKI/blob/4489faa022cc2e625bb08a4817cd194df95683b7/logoifpr.png)
+![Logo do IFPR](https://github.com/prof-fernando-alves/CafeteriaGRECHUSKI/blob/4489faa022cc2e625bb08a4817cd194df95683b7/logoifpr.png)
  
  **By Matheus Grechuski**
 
